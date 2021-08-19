@@ -1,0 +1,10 @@
+{
+    "name": "instagram-clone",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["octref.vetur","alexcvzz.vscode-sqlite","donjayamanne.githistory"]
+}
