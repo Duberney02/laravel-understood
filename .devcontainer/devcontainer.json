@@ -6,5 +6,11 @@
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
-    "extensions": ["octref.vetur","alexcvzz.vscode-sqlite","donjayamanne.githistory"]
+    "extensions": [
+		"octref.vetur",
+		"alexcvzz.vscode-sqlite",
+		"donjayamanne.githistory",
+		"onecentlin.laravel-blade",
+		"ryannaddy.laravel-artisan"
+	]
 }
